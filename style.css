@@ -1,0 +1,18 @@
+h1 {
+    color:rgb(148, 0, 211);
+    font-size: 50px;
+}
+
+.nav-link {
+
+padding: 12px;
+border: 2px solid #bbb;
+border-radius: 300px;
+text-decoration: none;
+color: black;
+
+}
+a: :hover  {
+    background-color: lightgray;
+
+}
