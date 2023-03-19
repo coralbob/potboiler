@@ -3,8 +3,9 @@ body {
     background-color: black;
 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+    padding: 100px;
     color: white;
+
 }
 
 h1 {
@@ -12,24 +13,34 @@ h1 {
     text-align: center;
 }
 
+.nav-link {
+
+    padding: 12px;
+    border: 2px solid ridge;
+    border-radius: 300px;
+    text-decoration: none;
+    color: lightskyblue;
+    }
+
 p1  {
-    font-size: 20px;
-    text-align: left;
+    font-size: 24px;
+    margin: 0;
+    text-align: center;
 }
 
 p2  {
+    
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+
+p3  {
     font-size: 14px;
     text-align: left;
 }
 
-
-
-.nav-link {
-
-padding: 12px;
-border: 2px solid ridge;
-border-radius: 300px;
-text-decoration: none;
-color: blue;
-
+div {
+    margin: auto;
+    text-align: center;
 }
